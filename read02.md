@@ -27,4 +27,3 @@
 >* touch new-project/newfile.md -Creates a new file called newfile.md in the new-project directory
 >* cd .. -Takes you back two directories
 >* ls projects/new-project - lists projects
-
