@@ -17,3 +17,8 @@ HTMl (HyperText Markup Language) is the code that is used to structure a web pag
 ## What is a semantic element?
 
 * A *semantic element* describes the purpose or role that an element has.
+* Examples:
+  * `<header>`
+  * `<footer>`
+  * `<article>`
+  * `<nav>`
