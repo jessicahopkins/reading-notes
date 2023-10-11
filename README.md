@@ -1,16 +1,26 @@
-# Code 102 Reading Notes
+# Reading Notes
 
-My Code Fellows 102 reading notes
+Welcome to my Code Fellows 102 reading notes page! You will find notes on all the topics we learned during class.
 
-## Growth Mindset
+## Table of Contents
 
-A growth mindset is the willingness to be flexible and open to change.  Someone with a growth mindset is always learning and trying to ***do better*** while maintaining a positive attitude.
+### Code 102 Reading Notes
 
-## How I stay in a growth mindset
+[Read: 01 - Learning Markdown](102/read01.md)
 
-1. Positive self-talk
-1. Giving and receiving feedback
-1. Setting goals
+[Read: 02 - The Coder's Computer](102/read02.md)
+
+[Read: 03 - Revisions and the Cloud](102/read03.md)
+
+[Read: 04 - Structure web pages with HTML](102/read04.md)
+
+[Read: 05 - Design web pages with CSS](102/read05.md)
+
+[Read: 06 - Dynamic web pages with JavaScript](102/read06.md)
+
+[Read: 07 - Programming with JavaScript](102/read07.md)
+
+[Read: 08 - Operators and Loops](102/read08.md)
 
 ## Bio
 
