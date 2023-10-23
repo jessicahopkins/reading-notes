@@ -24,7 +24,7 @@ Welcome to my Code Fellows reading notes page! You will find notes on all the to
 
 ## Code 201 - Foundations of Software Development
 
-[Read: 01](201/read201_01.md)
+[Read: Class 01](201/class-01.md)
 
 [Read: 02](201/read201_02.md)
 
