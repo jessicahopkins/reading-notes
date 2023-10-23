@@ -1,10 +1,10 @@
 # Reading Notes
 
-Welcome to my Code Fellows 102 reading notes page! You will find notes on all the topics we learned during class.
+Welcome to my Code Fellows reading notes page! You will find notes on all the topics we learned during class.
 
 ## Table of Contents
 
-### Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 [Read: 01 - Learning Markdown](102/read01.md)
 
@@ -22,7 +22,7 @@ Welcome to my Code Fellows 102 reading notes page! You will find notes on all th
 
 [Read: 08 - Operators and Loops](102/read08.md)
 
-### Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 [Read: 01](201/read201_01.md)
 
@@ -54,8 +54,12 @@ Welcome to my Code Fellows 102 reading notes page! You will find notes on all th
 
 [Read: 15](201/read201_15.md)
 
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
+
 ## Bio
 
-Hi!  My name is Jessica Hopkins (she/her) and I live in Buckley, WA (PST).  I am currently a Software Engineering Manager at Mutual of Enumclaw Insurance Co.  **I lead an amazing team of Software Engineers!**  My background is in people management and I want to learn more about the technical side of software development to be a better manager.
+Hi!  My name is Jessica Hopkins (she/her) and I live in Buckley, WA (PST).  I am currently a Software Engineering Manager at Mutual of Enumclaw Insurance Co.  **I lead an amazing team of Software Engineers!**  My background is in people management and I want to learn more about the technical side of software development to be a better leader.
 
 [Github Profile](https://github.com/jessicahopkins)
