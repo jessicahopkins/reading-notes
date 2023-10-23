@@ -37,4 +37,3 @@ Why does this topic matter?
 1. How can you add JavaScript to an HTML document?
 
 ## Things I want to know more about
-
