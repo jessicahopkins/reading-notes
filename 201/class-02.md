@@ -1,6 +1,6 @@
 # Read: Class 02
 
-Why this topic is important...
+These topics are important because they review the basics of HTML and CSS and start to build on JavaScript fundamentals.
 
 ## Introduction to HTML (continued)
 
