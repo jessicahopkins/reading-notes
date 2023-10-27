@@ -30,7 +30,7 @@ Sources:
 1. ___ positioning is the default for every html element.
     * Static positioning
 1. Name a few advantages to using absolute positioning on an element.
-    * It sits on its own layer separate from everything else.You can create isolated UI features that don't interfere with the layout of other elements on the page (think pop-ups, drag and drop features.
+    * It sits on its own layer separate from everything else.You can create isolated UI features that don't interfere with the layout of other elements on the page (think pop-ups, drag and drop features).
 1. What is a key difference between fixed positioning and absolute positioning?
     * They are fixed in place (think navigation menus that are always visible no matter how much the page scrolls)
 
@@ -42,21 +42,20 @@ Sources:
 
 [CSS Layout - Normal Flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
 
-[CSS Layout - Positioning ](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
+[CSS Layout - Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
 
 ## Learn JS - Functions
 
 1. Describe the difference between a function declaration and a function invocation.
     * A function declaration is the process of creating a new function in code.  It defines the functions name and parameters.  Typically starts with the "function" key word, followed by name, paramert list (enclosed in parentheses) and the body enclosed in curly braces. Function invocation executes code using a previously declared function.
 1. What is the difference between a parameter and an argument?
-    * A parameter defines the input that a function requires to perform its task.  Part of the declaration (inside parentheses).  Argument is the actual value that is passed to a function when its called.  Values enclosed within parentheses 
+    * A parameter defines the input that a function requires to perform its task.  Part of the declaration (inside parentheses).  Argument is the actual value that is passed to a function when its called.  Values enclosed within parentheses.
 
 Sources:
 
 [Learn JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
 [Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
-
 
 ## Miscellaneous - Pair Programming
 
