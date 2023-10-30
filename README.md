@@ -34,7 +34,7 @@ Welcome to my Code Fellows reading notes page! You will find notes on all the to
 
 [Read: Class 05](201/class-05.md)
 
-[Read: 06](201/read201_06.md)
+[Read: Class 06](201/class_06.md)
 
 [Read: 07](201/read201_07.md)
 
