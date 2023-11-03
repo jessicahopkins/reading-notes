@@ -42,7 +42,7 @@ Welcome to my Code Fellows reading notes page! You will find notes on all the to
 
 [Read: Class 09](201/class-09.md)
 
-[Read: 10](201/read201_10.md)
+[Read: Class 10](201/class-10.md)
 
 [Read: 11](201/read201_11.md)
 
