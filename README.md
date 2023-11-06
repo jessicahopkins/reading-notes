@@ -44,15 +44,15 @@ Welcome to my Code Fellows reading notes page! You will find notes on all the to
 
 [Read: Class 10](201/class-10.md)
 
-[Read: 11](201/read201_11.md)
+[Read: Class 11](201/class-11.md)
 
-[Read: 12](201/read201_12.md)
+[Read: Class 12](201/class-12.md)
 
-[Read: 13](201/read201_13.md)
+[Read: Class 13](201/class-13.md)
 
-[Read: 14](201/read201_14.md)
+[Read: Class 14](201/class-14.md)
 
-[Read: 15](201/read201_15.md)
+[Read: Class 15](201/class-15.md)
 
 ## Code 301 - Intermediate Software Development
 
