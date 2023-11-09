@@ -50,7 +50,7 @@ Welcome to my Code Fellows reading notes page! You will find notes on all the to
 
 [Read: Class 13](201/class-13.md)
 
-[Read: Class 14: Psychological Safety](201/Psychological-Safety.md)
+[Read: Psychological Safety](201/psychological-safety.md)
 
 [Read: Class 14](201/class-14.md)
 

@@ -1,4 +1,4 @@
-# Read: Class 14: Psychological Safety
+# Read: Psychological Safety
 
 Psychological safety is an important aspect in company and team culture today.  Everyone wants to feel safe and be heard.
 
