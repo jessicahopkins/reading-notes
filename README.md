@@ -50,9 +50,9 @@ Welcome to my Code Fellows reading notes page! You will find notes on all the to
 
 [Read: Class 13](201/class-13.md)
 
-[Read: Class 14](201/class-14.md)
+[Read: Class 14: Psychological Safety](201/class-14%20Psychological-Safety.md)
 
-[Read: Class 15](201/class-15.md)
+[Read: Class 14](201/class-14.md)
 
 ## Code 301 - Intermediate Software Development
 
